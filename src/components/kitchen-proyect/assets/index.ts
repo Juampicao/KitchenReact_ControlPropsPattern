@@ -4,7 +4,7 @@
 // Imports
 import HamburguesaImport from "./img/hamburguesa-image.png";
 import noImageImport from "./img/no-image.jpg";
-import PanchoImageImport from "./img/pancho-image.jpg";
+import PanchoImageImport from "./img/pancho-image3.png";
 import PapasFritasImport from "./img/papasFritas-image.png";
 
 // Exports

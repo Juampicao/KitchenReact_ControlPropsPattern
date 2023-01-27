@@ -13,7 +13,11 @@
 }
 
 .productImg {
-    width: calc(40% - 20px);
+    /* width: calc(40% - 20px); */
+    
+    height: 80px;
+    width: 80px;
+    object-fit: contain;
     border-radius: 3rem;
     display: block;
     margin-left:auto;
